@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Ninja-Jutsu/Ninja-Jutsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Ismail**, a [FUll Stack Web Developer]. Passionate about crafting innovative solutions and exploring the frontiers of technology. 
 
-Here are some ideas to get you started:
+### About Me
+* 🌱 Learning: Python & SQL
+* 🤔 Interested in: Next.js & Databases
+* 📫 How to reach me:
+  -  ismail.bardach.work@gmail.com
+  -  https://www.linkedin.com/in/ismail-bardach-83921a190/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+* **Frontend:** Next.js, React, TypeScript, JavaScript, HTML, CSS
+* **Backend:** Node.js, Next.js
+* **Database:** MySQL, MongoDB
+* **Cloud:** AWS
+
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninja-Jutsu)](https://github.com/anuraghazra/github-readme-stats)
