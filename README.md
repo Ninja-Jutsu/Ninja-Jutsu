@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Ismail**, a [FUll Stack Web Developer]. Passionate about crafting innovative solutions and exploring the frontiers of technology. 
+**I'm Ismail**, a FUll Stack Web Developer. Passionate about crafting innovative solutions and exploring the frontiers of technology. 
 
 ### About Me
 * 🌱 Learning: Python & SQL
